@@ -19,7 +19,16 @@ options(htmltools.dir.version = FALSE)
 
 - Introduction slides can be accessed here: https://rladiesstl.github.io/meetup-april6-2022/
 
+- Jose's repository: https://github.com/neonseri/RLadiesCensusSpatialWorkshop 
+
 - Have R and RStudio installed on your computer
+
+- Install the following packages:
+ - `censusapi`
+ - `tigris`
+ - `sf`
+ - `ggplot2`
+ - `leaflet`
 
 ---
 
